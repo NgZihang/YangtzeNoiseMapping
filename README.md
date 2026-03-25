@@ -21,9 +21,15 @@ The model employs a graph neural network architecture with the following core co
 ### Dependencies
 
 Python >= 3.8
+
 PyTorch >= 1.10.0
+
 PyTorch Geometric >= 2.0.0
+
 pandas >= 1.3.0
+
 numpy >= 1.21.0
+
 scikit-learn >= 1.0.0
+
 matplotlib >= 3.4.0
